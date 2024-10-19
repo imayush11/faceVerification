@@ -26,7 +26,9 @@ To run this application, ensure you have the following installed:
 ## Installation
 
 1. **Clone the repository**:
-   ```bash
+```
    git clone https://github.com/imayush11/faceVerification
+```
+```
    cd face-recognition-app
 ```
